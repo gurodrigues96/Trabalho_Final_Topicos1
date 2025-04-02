@@ -80,4 +80,6 @@
 - https://www.youtube.com/watch?v=-hlzk4FXlUU
 - https://www.youtube.com/playlist?list=PL5jigOsyxDtBEgO2zUUyf_2LNt3Zenrl6
 - https://www.youtube.com/watch?v=SvmFqZ4cD-I
-- PDF enviado pelo professor da máteria de tópicos 1 Jefferson Silva Lopes jefferson
+- PDF enviado pelo professor da máteria de tópicos 1 Jefferson Silva Lopes https://colab.research.google.com/drive/1yt2_EKB2cHgKXTwzD6DIf7A0z-61eyCU?usp=sharing&authuser=1
+- https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales/data
+- https://www.kaggle.com/code/mohamedsaid6488/chocolate-sales
